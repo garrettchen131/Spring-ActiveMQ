@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-base/spring-base.iml" filepath="$PROJECT_DIR$/spring/spring-base/spring-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-jms-queue-consumer/spring-jms-queue-consumer.iml" filepath="$PROJECT_DIR$/spring/spring-jms-queue-consumer/spring-jms-queue-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring/spring-jms-queue-producer/spring-jms-queue-producer.iml" filepath="$PROJECT_DIR$/spring/spring-jms-queue-producer/spring-jms-queue-producer.iml" />
+    </modules>
+  </component>
+</project>
